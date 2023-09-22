@@ -9,8 +9,8 @@ POST https://localhost:5050/user HTTP/1.1
 content-Type: application/json
 
 {
-    "name": "123214565",
-    "password": "youwillneverguess"
+    "name": "lola",
+    "password": "guessit"
 }
 
 ###
